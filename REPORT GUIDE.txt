@@ -1,0 +1,47 @@
+Major Project Report
+After completion of the project work, every student will submit a project report which should contain the following:
+1.	Cover Page (as per annexure 1)
+2.	Title page (as per annexure 1)
+3.	Declaration by the Student (as per annexure 2)
+4.	Certificate by the Guide (as per annexure 3)
+5.	Acknowledgment (The candidate may thank all those who helped in the execution of the project.)
+6.	Abstract (It should be in one page and include the purpose of the study; the methodology used and a summary of the major findings.)
+7.	Table of Contents (as per annexure 4):  Detailed description of the project (This should be split in various chapters/sections with each chapter/section describing a project activity in totality). This portion of report should contain all relevant diagrams, tables, flow charts, software programme, print outs, photographs etc., which are poperly labelled.
+8.	Conclusion & Recommendations
+9.	Appendices
+•	Appendices are provided to give supplementary information, which if included in the main text may serve as a distraction and cloud the central theme.                                    
+•	Appendices should be numbered using Arabic numerals, e.g. Appendix 1, Appendix 2.
+•	Appendices shall carry the title of the work reported and the same title shall be listed in the Contents page also
+10.	References (The listing of references should be typed 2 spaces below the heading “REFERENCES” in alphabetical order in single spacing left – justified.  It should be numbered consecutively (in square [ ] brackets, throughout the text and should be collected together in the reference list at the end of the report. The references should be numbered in the order they are used in the text. The name of the author/authors should be immediately followed by the year and other details).  Typical examples of the references are given below: 
+REFERENCES
+[1]. Ariponnammal, S. and Natarajan, S. (1994) ‘Transport Phonomena of SmSel – X Asx’, Pramana – Journal of Physics Vol.42, No.1, pp.421-425. 
+In addition, following points should be complied with:-
+i)	Page numbering
+ii)	Numbering of appendices, figures and tables and their reference in the text.
+iii)	For general layout of report, any standard text book layout may be referred.
+ 
+Report Specifications:
+1.	Project Report’s Cover Type:  Hard-bound
+2.	Color of Project Report Cover:  Black only with golden alphabets (as per annexure 1)
+3.	Number of Copies: 2 per student (Internal/External exam + Individual or Student’s copy)
+4.	Paper Size (orientation): A4 (portrait)
+5.	Margins: 1” top / bottom / right and 1.5” left
+6.	Font Type: Times New Roman
+7.	Font Size: 16 bold for chapter names, 14 bold for headings and 12 for normal text
+8.	Line Spacing: 1.5 throughout
+9.	Page Numbering:  Bottom center of page in the format – Page 1 of N
+
+NOTE: Project report must not contain any description of the following except only a relevant and short mention – technology or platform or OS or tools used or any language details.  It must be more focussed on project work carried out and its implementation details without including any source code.
+
+Details of CD:
+CD of the project work is required to be pasted on the back cover of the project report in clear packet, which should include the following folders and contents:
+1.	Presentation (should include a PPT about project in not more than 40-50 slides)
+2.	Documentation (should include a word file of the project report)
+3.	SourceCode (full source code of the project with libraries used)
+4.	Program (final running copy of the project executable)
+5.	Support (any third party tools used or runtime environment setups that are required to run the project)
+6.	Help (user manual on how to run the project)
+
+NOTE: CD must be checked for any harmful viruses before submission.  SourceCode and Program folders can be combined into single folder Project if it’s a web project etc.
+ 
+  
